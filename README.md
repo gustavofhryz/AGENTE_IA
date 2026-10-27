@@ -70,12 +70,17 @@ O plano prioriza conteúdos de plataformas ligadas a grandes empresas: **DIO**, 
 - Como usar IA agêntica (Antigravity) para organizar e documentar um projeto real.
 - Como organizar um repositório no GitHub para portfólio.
 
-## Autor ## Inspiração
+## Inspiração
 
-Este projeto foi inspirado no curso "Potencializando Seus Estudos e Carreira com IA", da DIO:
-[potencializando-estudos-carreira-com-ia](https://github.com/digitalinnovationone/potencializando-estudos-carreira-com-ia)
+Este projeto foi inspirado no curso "Potencializando Seus Estudos e Carreira com IA", da DIO: [potencializando-estudos-carreira-com-ia](https://github.com/digitalinnovationone/potencializando-estudos-carreira-com-ia).
+
+## Autor 
 
 **gustavofhryz** · [GitHub](https://github.com/gustavofhryz) · [LinkedIn](https://www.linkedin.com/in/gustavo-policarpo-ferreira-b68118219/)
+
+## Demonstração
+
+Estrutura do repositório e exemplos dos arquivos gerados:
 
 <img width="632" height="186" alt="files" src="https://github.com/user-attachments/assets/3513b564-0b4e-44c2-b3e8-11b6d080a62c" />
 <img width="1440" height="900" alt="example" src="https://github.com/user-attachments/assets/8e975851-9c20-4db3-97fd-2191a46806e5" />
